@@ -1,5 +1,5 @@
 import { Routes, Route } from "react-router-dom";
-import { Dashboard } from "./pages/Dashboard";
+import { Dashboard } from "./pages/dashboard";
 import { LivePrices } from "./pages/LivePrices";
 import { News } from "./pages/News";
 import { Signals } from "./pages/Signals";
